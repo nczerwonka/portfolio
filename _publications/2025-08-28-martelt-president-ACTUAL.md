@@ -10,3 +10,5 @@ paperurl: 'https://martlet.ca/five-completely-serious-candidates-for-uvics-new-p
 ---
 A humour piece providing a list of new candidates following the sudden exit of the University of Victoria's former president Kevin Hall. Awarded gold by the Canadian University Press in the humour writing category
 of the 2026 John H. McDonald Awards for Excellence in Student Journalism.
+
+[Read here](https://martlet.ca/five-completely-serious-candidates-for-uvics-new-president/)
