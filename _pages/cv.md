@@ -17,23 +17,23 @@ Education
 
 Work experience
 ======
-* 2021-2026: Sales Associate
+* 2021-Present: Sales Associate
   * Sport Chek Ltd.
-  * Duties includes: Updates and improvements to template
+  * Duties include: Assisting customers with product knowledge and a positive customer service experience.
 
 * Winter 2026: Research Assistant
   * University of Alberta
-  * Duties included: Merging pull requests
-  * Supervisor: Dr. Rob McMahon and Dr. PB Berge
+  * Duties included: Creating and implementing digital components for an educational game workshop centred on teaching about broadband development in rural communities. 
+  * Supervisors: Dr. Rob McMahon and Dr. PB Berge
 
 * Summer 2025: Senior Staff Writer
   * The Martlet
-  * Duties included: Tagging issues
-  * Supervisor: Ethan Barkley, Editor-in-Chief
+  * Duties included: Researching and authoring articles relevant to the local Victoria community. Topics ranged across local news, university policy decisions, poliical commentary, and creative humour writing.
+  * Awarded gold for humour writing at the 2026 John H. McDonald Awards.
  
 * Summer 2023: Research Assistant
   * University of Calgary
-  * Duties included:
+  * Duties included: Creating a literature review for future academic projects concerned with the implementation of AI into software engineering education.
   * Supervisor: Dr. Mohammad Moshirpour
   
 Skills
@@ -56,13 +56,17 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Life Officer, 2025-26  \
+  Digital Humanities Student Association, University of Alberta
+* Volunteer Lab and Project Researcher  \
+  The CRYPT Lab, University of Alberta
