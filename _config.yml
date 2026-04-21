@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Nick Czerwonka / About"
 title_separator          : "-"
 name                     : &name "Nick Czerwonka"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pippen.png.heic"
+  avatar           : "pippen.png"
   name             : "Nick Czerwonka"
   pronouns         : "he/him" #example: "she/her"  
   bio              : "Masters student of Digital Humanities at the University of Alberta"
