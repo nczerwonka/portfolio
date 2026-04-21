@@ -12,7 +12,7 @@ site_theme               : "contrast" # The available themes options are "defaul
 title                    : "Nick Czerwonka / About"
 title_separator          : "-"
 name                     : &name "Nick Czerwonka"
-description              : &description "Experienced writer and researcher in both academic and professional settings with a background in history and journalism. Current Masters student at the University of Alberta studying digitalhumanities with a focus on critical media studies and game development. Strong skills in critical literature and media analysis with programming skills for digital settings, as well as interpersonaldevelopment from years in customer service. Passionate about storytelling in the digital world!"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : 'https://nczerwonka.github.io/' # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
