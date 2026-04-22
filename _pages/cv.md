@@ -38,12 +38,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Game and Narrative Design
+* Humanities Research
+  * Critical media and literature analysis
+  * Interview design and execution
+* Digital Tools
+  * GitHub
+  * Python / R 
 
 Publications
 ======
