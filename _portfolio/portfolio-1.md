@@ -4,5 +4,5 @@ excerpt: "A short pece of interactive fiction built in Twine intended to worksho
 collection: portfolio
 ---
 
-[Download]([file:///C:/Users/user/Downloads/Panic!_WorkingScene.html])
+[Download]((https://nczerwonka.itch.io/panic-working-scene))
 
