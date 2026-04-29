@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pippen.png"
+  avatar           : "PIPPEN.jpg"
   name             : "Nick Czerwonka"
   pronouns         : "he/him" #example: "she/her"  
   bio              : "Masters student of Digital Humanities at the University of Alberta"
