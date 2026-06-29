@@ -18,28 +18,28 @@ Education
 Work experience
 ======
 
-* Spring 2026 - Present: Role Playing Writer/Designer
+* __Role Playing Writer/Designer, University of Alberta__ (Spring 2026 - Present)
   * Duties are to design and write role-playing scenarios for a university workshop meant to educate participants on decentralized, community-operated alternatives to      modern social media platforms such as Mastadon and Bluesky.
  
-* Spring 2026 - Present: Game Designer, University of Alberta
+* __Game Designer, University of Alberta__ (Spring 2026 - Present)
   * Member of the design team for TownSquare, a board game currently under development at the University of Alberta which aims to help players identify and address         toxic rhetorical strategies that commonly appear in contemporary political discourse.
   * Duties include iterating and testing gameplay mechanics, as well as authoring a portion of the game's written materials.
  
-* 2021-Present: Sales Associate, SportChek Ltd.
+* __Sales Associate, SportChek Ltd.__ (2021 - Present)
   * Responsible for greeting customers and assisting their purchases with product knowledge and recommendations.
   * Consistently received positive reviews from customers for high quality customer service.
 
-* Winter 2026: Game Production Assistant, University of Alberta
+* __Game Production Assistant, University of Alberta__ (Spring 2026)
   * Assisted in the design and implementation of the digital components of Make the NetWork, an educational game workshop created for rural communities to learn about      building local broadband infrastructure.
   * Role was to author webpages with relevant information on the real-world applications of specific game pieces, and code them onto NFC chips which were then fitted       onto the physical pieces for player use.
 
-* Summer 2025: Senior Staff Writer, the Martlet
+* __Senior Staff Writer, the Martlet__ (Summer 2025)
   * Researched, conducted interviews for, and authored a diverse set of articles which were published in the Martlet, an independent newspaper published at the University of Victoria.
   * Topics ranged across local Victoria community stories, university policy decisions, political
 commentary, and creative humour writing.
   * Awarded 2026 John H. MacDonald Award for Excellence in Student Journalism.
  
-* Summer 2023: Research Assistant, University of Calgary
+* __Research Assistant, University of Calgary__ (Summer 2023)
   * Researched and authored a comprehensive literature review to help investigate potential applications for artificial intelligence within software engineering education.
   
 Skills
