@@ -17,24 +17,30 @@ Education
 
 Work experience
 ======
-* 2021-Present: Sales Associate
-  * Sport Chek Ltd.
-  * Duties include: Assisting customers with product knowledge and a positive customer service experience.
 
-* Winter 2026: Research Assistant
-  * University of Alberta
-  * Duties included: Creating and implementing digital components for an educational game workshop centred on teaching about broadband development in rural communities. 
-  * Supervisors: Dr. Rob McMahon and Dr. PB Berge
-
-* Summer 2025: Senior Staff Writer
-  * The Martlet
-  * Duties included: Researching and authoring articles relevant to the local Victoria community. Topics ranged across local news, university policy decisions, poliical commentary, and creative humour writing.
-  * Awarded gold for humour writing at the 2026 John H. McDonald Awards.
+* Spring 2026 - Present: Role Playing Writer/Designer
+  * Duties are to design and write role-playing scenarios for a university workshop meant to educate participants on decentralized, community-operated alternatives to      modern social media platforms such as Mastadon and Bluesky.
  
-* Summer 2023: Research Assistant
-  * University of Calgary
-  * Duties included: Creating a literature review for future academic projects concerned with the implementation of AI into software engineering education.
-  * Supervisor: Dr. Mohammad Moshirpour
+* Spring 2026 - Present: Game Designer, University of Alberta
+  * Member of the design team for TownSquare, a board game currently under development at the University of Alberta which aims to help players identify and address         toxic rhetorical strategies that commonly appear in contemporary political discourse.
+  * Duties include iterating and testing gameplay mechanics, as well as authoring a portion of the game's written materials.
+ 
+* 2021-Present: Sales Associate, SportChek Ltd.
+  * Responsible for greeting customers and assisting their purchases with product knowledge and recommendations.
+  * Consistently received positive reviews from customers for high quality customer service.
+
+* Winter 2026: Game Production Assistant, University of Alberta
+  * Assisted in the design and implementation of the digital components of Make the NetWork, an educational game workshop created for rural communities to learn about      building local broadband infrastructure.
+  * Role was to author webpages with relevant information on the real-world applications of specific game pieces, and code them onto NFC chips which were then fitted       onto the physical pieces for player use.
+
+* Summer 2025: Senior Staff Writer, the Martlet
+  * Researched, conducted interviews for, and authored a diverse set of articles which were published in the Martlet, an independent newspaper published at the University of Victoria.
+  * Topics ranged across local Victoria community stories, university policy decisions, political
+commentary, and creative humour writing.
+  * Awarded 2026 John H. MacDonald Award for Excellence in Student Journalism.
+ 
+* Summer 2023: Research Assistant, University of Calgary
+  * Researched and authored a comprehensive literature review to help investigate potential applications for artificial intelligence within software engineering education.
   
 Skills
 ======
