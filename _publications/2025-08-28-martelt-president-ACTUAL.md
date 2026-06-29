@@ -1,5 +1,5 @@
 ---
-title: "Five completely serious candidates for UVic's new president"
+title: "Five completely serious candidates for UVic's new president."
 collection: publications
 category: newspaper
 permalink: /publication/2025-08-28-martlet-president
